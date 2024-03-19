@@ -15,7 +15,6 @@
     </code>
   </pre>
 </p>
-```
 
 # Instalation
 
